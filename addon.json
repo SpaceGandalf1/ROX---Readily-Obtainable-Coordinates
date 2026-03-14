@@ -1,0 +1,13 @@
+{
+	"title": "ROX - Readily Obtainable Coordinates",
+	"type": "tool",
+	"tags": [
+		"build",
+		"utility"
+	],
+	"ignore": [
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
